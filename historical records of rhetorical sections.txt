@@ -1,0 +1,29 @@
+A Discussion of Evidence of the Use of the IMRD Rhetorical Structure in Early
+Scientific Works: Cases of Ibn Al Haytham (a.k.a., Alhazen), Ptolemy, and Newton
+
+
+This document is a part of my PhD dissertation, page 306:
+
+Nasseri, M. (2020). STATISTICAL MODELLING OF LEXICAL AND SYNTACTIC COMPLEXITY OF ACADEMIC WRITING: A GENRE AND CORPUS-BASED STUDY OF EFL, ESL, AND ENGLISH L1 M.A. DISSERTATIONS. PhD dissertation, University of Birmingham, England. 
+
+
+
+##################################
+
+
+Although an exact origin of the use of the IMRD rhetorical structure in the scientific works is not clear, two researchers of scientific history, Nader El-Bizri, a professor at the American University of Beirut, and Mark Smith, a professor at the University of Missouri, have identified a general structure of IMRD in several early scientific books as a response to my enquiry. The personal email communications with their exact wording appear in the following paragraphs.
+
+Prof. Nader El-Bizri has identified an IMRD organisational pattern in three books of Ibn Al Haytham, books I-III of ‘Kitāb al-Manāzir’, translated as ‘The Book of Optics’ in the 11 th century. Alhazen is referred to as the ‘father of modern optics’ and one of the early examples of conducting the ‘scientific method’ of experimentation (see the discussions in El- Bizri, 2005; Smith, 2004) and is renowned especially for the seven-volume book of optics. In a personal communication (January 2020), professor El-Bizri has confirmed the following about the IMRD rhetorical structure in each chapter in the first three volumes of this book:
+
+“Ibn al-Haytham proceeds by way of: {I} introducing the theme of his investigation (for example the nature of visual perception); he then notes {M} the existing theories or methods that are deployed in studying it (for example, explanations in terms of geometry [Euclid, Ptolemy] vs. physics [Aristotle]), and he proposes an outline of his own explications of the phenomenon being investigated and the method he will use (for example combining geometry with physics in mathematical modeling that informs and is guided by experimentation); then {R} he details his experimental work, his geometric models, his observations using direct visual perception or installations for controlled testing; then {D} he further elaborates on his findings and any drawbacks in the method or the observations and errors in data. However, this is not done across the seven books of his Optics (Kitab al-manazir/De aspectibus or Perspectiva) in this sequence, but we can, for instance, see that it resonates with his Books I-II and possibly III as well.”
+
+Professor Mark Smith has also commented (in an email communication, January 2020) the following about the IMRD rhetorical structure in a letter written by Isaac Newton (this scientific letter is a modern equivalent of a scientific article that can be accessed via this URL http://www.newtonproject.ox.ac.uk/view/texts/normalized/NATP00006) as well as in the works of Ptolemy, a Greek mathematician in AD 170, and Ibn Haytham, an Iraqi scientist on Optics and mathematics in AD 965:
+
+“There are certainly examples of early scientific thinkers who followed the IMRD model virtually if not literally. Among them are Ptolemy and Ibn al-Haytham, who structured their optical analyses according to that model, albeit with an emphasis on method and results, but all in aid of demonstrating various universal characteristics of light and vision. A clearer case, perhaps, is Isaac Newton in his 1672 paper on light and colour, which is carefully constructed to highlight the method (i.e., instruments and procedures) as a means of validating the results, after which he was able to conclude that ‘white’ light is actually a composite of all radiant colors.”
+
+For further readings and an analysis of ‘The Book of Optics’ consult these references that are not cited in the References section of my thesis.
+
+El-Bizri, N. (2005). A philosophical perspective on Alhazen’s Optics. Arabic Sciences and Philosophy 15, 189-218. Cambridge: Cambridge University Press. doi:10.1017/S0957423905000172
+
+Smith, M. (2004). What is the history of medieval optics really about? Proceedings of the American Philosophical Society, 148 (2), 180-194.
+
