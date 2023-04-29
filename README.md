@@ -9,3 +9,5 @@ This repository contains:
 -- Supplementary materials and evidence on the historical records of the IMRD structure of rhetorical sections of scientific works
 
 -- Additional graphs and the results of various machine learning models
+
+-- Sample code for machine learning models
